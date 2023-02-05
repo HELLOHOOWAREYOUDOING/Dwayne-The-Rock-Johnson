@@ -1,0 +1,45 @@
+h1 {
+    font-family: 'Nabla', cursive; 
+}
+body {
+    text-align: center;
+    background-color: black;
+}
+#img {
+    height: 80%;
+    width: 50%;
+}
+#p {
+    color: rgb(0, 4, 255);
+}
+#h3 {
+    color: rgb(0, 4, 255);
+}
+
+
+#h11 {
+    background-color: darkred;
+}
+#two {
+    border-radius: 50%;
+    width: 30%;
+    height: 30%;
+}
+#h33 {
+    background-color: blue;
+}
+.menu {
+       width: 100%;
+       position: fixed;
+       background-color: rgb(215, 101, 19);
+       margin-top: 0px;
+       top: 0px;
+       z-index: 10;
+}
+.links {
+    display: inline;
+    padding-left: 33px;
+    padding-right: 25px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+}
